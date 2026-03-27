@@ -1,0 +1,17 @@
+{
+  "name": "Profit Point POS",
+  "short_name": "Profit Point",
+  "start_url": "./phone%20POS.html",
+  "display": "standalone",
+  "background_color": "#051f2f",
+  "theme_color": "#06c6d4",
+  "description": "Mobile point of sale with inventory, analytics, loyalty, and offline support.",
+  "icons": [
+    {
+      "src": "./web-assets/images/default-wallpaper.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
